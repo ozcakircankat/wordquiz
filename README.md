@@ -1,1 +1,1 @@
-# wordquiz
+# WordQuiz
